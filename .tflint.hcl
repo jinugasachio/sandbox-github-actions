@@ -10,6 +10,6 @@ plugin "aws" {
   enabled    = true
   deep_check = true
   region     = "ap-northeast-1"
-  version    = "0.10.1"
+  version    = "0.37.0"
   source     = "github.com/terraform-linters/tflint-ruleset-aws"
 }
