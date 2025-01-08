@@ -1,4 +1,4 @@
-FROM alpine:3.15.3
+FROM alpine:3.21.2
 
 ARG GLIBC_VER=2.34-r0
 RUN apk update \
