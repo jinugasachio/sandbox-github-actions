@@ -7,7 +7,7 @@ registries:
 
 packages:
 - name: aquasecurity/tfsec@v1.15.4
-- name: gruntwork-io/terragrunt@v0.36.6
+- name: gruntwork-io/terragrunt@v0.73.1
 - name: reviewdog/reviewdog@v0.14.1
 - name: suzuki-shunsuke/tfcmt@v3.1.0
 - name: suzuki-shunsuke/github-comment@v4.5.2
